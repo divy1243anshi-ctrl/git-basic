@@ -4,4 +4,4 @@ This is my first Git Repository.
 Author : <br> "Divyanshi saini"
 <br> learn about repositry.
 fix it
-how to made repositary.
+<br> How to made repositary.
