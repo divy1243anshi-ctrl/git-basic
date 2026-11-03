@@ -12,3 +12,4 @@ fix it
 <br> 4-learn how to connect vs code in git hub.
 <br> 5 learn load program.
 <br> 6 git hub is very useful skill.
+manage program .
